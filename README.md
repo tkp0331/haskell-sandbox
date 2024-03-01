@@ -1,0 +1,2 @@
+# haskell-sandbox
+なんかgithubドリブンでやりたい性格になってしまったので作成したrepository
